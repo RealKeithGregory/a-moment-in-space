@@ -74,8 +74,8 @@ div.date-and-button-container{
 /*******************************************/
 input{
   margin: auto;
-  background-color: black;
-  color: rgb(245, 245, 220);
+  background-color: rgb(245, 245, 220);;
+  color: rgb(0, 0, 0));
   font-size: 24px;
   display: flex;
   justify-content: center;
