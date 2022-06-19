@@ -12,7 +12,7 @@
 /*******************************************/
 
 body{
-  color: beige;
+  color: rgb(245, 245, 220);
   background-color: black;
 }
 h1{
@@ -23,7 +23,7 @@ button{
   padding: auto;
   margin: auto;
   font-size: 24px;
-  background-color: beige;
+  background-color: rgb(245, 245, 220);
   display: flex;
   justify-content: center;
   color: black;
@@ -75,7 +75,7 @@ div.date-and-button-container{
 input{
   margin: auto;
   background-color: black;
-  color: beige;
+  color: rgb(245, 245, 220);
   font-size: 24px;
   display: flex;
   justify-content: center;
@@ -83,5 +83,5 @@ input{
 footer{
   text-align: center;
   font-size: 1.2rem;
-  color: beige
+  color: rgb(245, 245, 220);
 }
