@@ -63,3 +63,8 @@ input{
   color: beige;
   font-size: 24px;
 }
+footer{
+  text-align: end;
+  font-size: 2rem;
+  color: beige
+}
