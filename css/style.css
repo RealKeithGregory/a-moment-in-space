@@ -18,7 +18,7 @@
   and (-webkit-min-device-pixel-ratio: 3) { 
 
 /******************************************
-/* LAYOUT
+/* MQ LAYOUT
 /*******************************************/
 
 body{
@@ -80,7 +80,7 @@ div.date-and-button-container{
 }
 
 /******************************************
-/* ADDITIONAL STYLES
+/* MQ ADDITIONAL STYLES
 /*******************************************/
 input{
   margin: auto;
